@@ -1,0 +1,16 @@
+customer_id,customer_name,city,category,purchase_amount,purchase_date
+101,Aarav Sharma,Mumbai,Electronics,45000,2026-01-05
+102,Priya Patel,Pune,Clothing,3200,2026-01-08
+103,Rahul Verma,Delhi,Furniture,18500,2026-01-12
+104,Sneha Joshi,Bengaluru,Electronics,27800,2026-01-15
+105,Vikram Singh,Jaipur,Grocery,5600,2026-01-18
+106,Neha Gupta,Nashik,Clothing,4200,2026-01-21
+107,Rohan Mehta,Ahmedabad,Electronics,15600,2026-01-25
+108,Ananya Rao,Hyderabad,Furniture,22400,2026-02-02
+109,Karan Shah,Surat,Grocery,3850,2026-02-06
+110,Pooja Deshmukh,Nagpur,Clothing,6100,2026-02-10
+111,Aditya Kulkarni,Pune,Electronics,19800,2026-02-14
+112,Meera Iyer,Chennai,Grocery,4750,2026-02-18
+113,Sahil Khan,Mumbai,Furniture,31500,2026-02-22
+114,Isha Nair,Kochi,Clothing,7300,2026-02-26
+115,Manish Yadav,Lucknow,Electronics,12900,2026-03-03
